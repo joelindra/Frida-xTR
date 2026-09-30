@@ -1,0 +1,10 @@
+# Frida Multi-Device Manager v2.0
+# Python 3.10+ recommended
+
+# Frida Core & Tools
+frida>=16.0.0
+frida-tools>=12.0.0
+
+# Interactive Textual TUI & Rich Formatting
+rich>=13.0.0
+textual>=0.50.0
